@@ -44,6 +44,9 @@ li{
 .Otros > ul{
     margin-left: 15px;
 }
+.Otros > span{
+    font-weight: 600;
+}
 /*=================================================*/
 .info{
     padding: 20px;
@@ -66,3 +69,4 @@ li{
     margin-top: 4px;
     font-size: 17px;
 }
+
